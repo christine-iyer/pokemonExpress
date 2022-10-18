@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa%7CRighteous');
+
+/* (https://media.istockphoto.com/vectors/cannabis-vector-id483151619?b=1&k=20&m=483151619&s=170667a&w=0&h=2LNN6cy4NvfwmassnzQA8e8N1iMWt2_SxR_hJ3kg7XA= */
+body {
+  margin: 0;
+  font-family: 'Comfortaa', cursive;
+ background-image: url(https://i.imgur.com/MxDDKw7.jpg); 
+  /* background-color: #f37736; */
+
+}
+
+
+h1 {
+  font-family: 'Righteous', cursive;
+  background: #ffc425;
+  margin:0;
+  margin-bottom: .5em;
+  padding: 1em;
+  text-align: center;
+}
+p:hover {
+  color: #f37735         ;
+}
+
+a {
+  color: #00b159  ;
+  text-decoration: none;
+  text-shadow: 1px 1px 1px black;
+  font-size: 1.5em;
+  background: #f37735  ;
+}
+
+a:hover {
+  color: #d11141 ;
+}
+
+li {
+  list-style: none;
+}
+
+li a {
+  color: #d11141 ;
+}
+input[type=checkbox] {
+  padding: .3em;  
+  border: none;
+  margin-bottom: 2em;
+  border: none;
+}
+
+input[type=text] {
+  padding: .3em;  
+  border: none;
+  margin-bottom: 2em;
+  border: none;
+}
+input[type=url] {
+  padding: .3em;  
+  margin-bottom: 2em;
+  border: none;
+}
+
+input[type=submit] {
+  padding: .3em;
+  color:#ffc425;
+  background: #00aedb ;
+  font-size: 1em;
+  border-radius: 10%;
+  border: none;
+  margin-bottom: 2em;
+}
+
+p {
+  color: #d11141 ;
+}
+
+img {
+  margin-top:-1em;
+margin-bottom: -2em;
+}
+
+#text {
+  color: #d11141 
+}
